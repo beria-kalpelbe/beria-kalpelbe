@@ -6,7 +6,7 @@
 **🌍 Nairobi, Kenya | 🎓 Google DeepMind Scholar | 🔬 Stellenbosch University**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beriakalpelbe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://beria-kalpelbe.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://beria-kalpelbe.org)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beriakalpelbe@gmail.com)
 
 </div>
@@ -46,9 +46,3 @@ Data Scientist, AI/ML Engineer and Predoctoral Research Fellow specializing in m
 
 ## 🎯 Current Focus
 🏥 Medical AI research at Stanford • 🤖 Multi-service AI integration • 🔬 Generative models for scientific discovery • 📊 Statistical frameworks for healthcare
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square)
-
-</div>
